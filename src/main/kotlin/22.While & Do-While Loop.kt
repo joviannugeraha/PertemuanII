@@ -15,4 +15,4 @@ fun main(args: Array<String>) {
     } while(y <= 50)
 }
 
-//While dan do-while loop di Kotlin sama penggunaannya dengan bahasa pemrograman Java.
+//While dan do-while loop di Kotlin sama penggunaannya dengan bahasa pemrograman Java
