@@ -1,7 +1,7 @@
 /**Ekspresi lambda selalu dikelilingi oleh tanda blok „{}‟ deklarasi parameter berada dalam blok
 yang memiliki opsional type annotation pada bagian tubuh blok ditandai dengan tanda „->‟. Jika
 tipe nilai kembalian dari fungsi bukan unit maka nilai kembalian diduga merupakan baris akhir
-dari program atau ekspresi dalam tubuh lambda tersebut.*/
+dari program atau ekspresi dalam tubuh lambda tersebut*/
 
 fun main(args: Array<String>) {
     println(MyFunction("Rekayasa Perangkat Lunak"))
